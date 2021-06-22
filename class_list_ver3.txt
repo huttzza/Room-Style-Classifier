@@ -1,0 +1,9 @@
+classic_luxury
+classic_oriental
+classic_retro_midcentury_modern
+classic_traditional
+modern_colorful
+modern_minimal_urban_international
+modern_scandinavian
+natural_bohemian_southeast_asia
+natural_natural_neutral

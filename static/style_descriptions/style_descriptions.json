@@ -1,0 +1,24 @@
+{
+    "class5":{
+        "casual_colorful_pastel" : {
+            "img_src" : "style_descriptions/casual_colorful.jpeg",
+            "detail" : "One of the main characteristics of this style is the combination of different kinds of pale woods and other natural materials with solid white lacquer. Base colours are understated with accents in sophisticated colours."
+        },
+        "classic_french_traditional" : {
+            "img_src" : "style_descriptions/classic_traditional.jpeg",
+            "detail" : "Classic&traditional style is inspired by European interiors of the 16th and 17th century. The style is decorative with a special focus on details and folklore impression or with a more rustic impression. "
+        },
+        "modern_urban_minimal_mono" : { 
+            "img_src" : "style_descriptions/modern_urban_minimal.png",
+            "detail" : "Modern style furnishings and decor celebrate natural materials, neutral or earthy colors, and the elimination of unnecessary detailing. It blends elements of contemporary, modern, and industrial designs to create a unique style. Modern homes have clean lines and are without fuss, yet they can be comfortable and cozy."
+        },
+        "natural_scandinavian_neutral" : {
+            "img_src" : "style_descriptions/natural_scandinavian.png",
+            "detail" : "This style reflects timeless modern design, dating from the 1950s until today. It’s light, clean and simple; functional furniture with clean lines in white or light coloured wood."
+        },
+        "retro_vintage_midcentury" : {
+            "img_src" : "style_descriptions/retro_vintage.jpeg",
+            "detail" : "Retro interior design is an eclectic mix of old styles and new forms, or new forms with old materials and finishes. Any era can be tapped into here, with the 50s, 60s and 70s the most common."
+        }
+    }
+}
