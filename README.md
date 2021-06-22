@@ -10,7 +10,7 @@
 ```
 
 # Dataset structure
-* dataset : private files at Pinterest images
+* dataset : private files from Pinterest images
 ```
 * dataset_image_pinterest_ver2/
     ├─ retro_vintage_midcentury
